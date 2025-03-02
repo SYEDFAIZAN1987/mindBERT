@@ -11,7 +11,7 @@
 
 ### 📌 Features
 - **Fine-tuned BERT model** for **mental health classification**
-- **Trained on real-world mental health text data** from Reddit
+- **Trained on real-world mental health text data** 
 - **Achieves high accuracy on validation**
 - **Optimized for inference and deployment**
 - **Interactive UI available on Hugging Face Spaces**
