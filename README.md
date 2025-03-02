@@ -3,7 +3,7 @@
 ![mindBERT UI](https://github.com/SYEDFAIZAN1987/mindBERT/blob/main/mindBERTUI.png)
 
 ### 🚀 Overview
-**mindBERT** is a transformer-based model fine-tuned for **mental health text classification**. It utilizes state-of-the-art Natural Language Processing (NLP) techniques to detect various mental health conditions from textual data. The model is trained on the **Reddit Mental Health Dataset** and achieves high accuracy in detecting **stress, depression, bipolar disorder, personality disorder, and anxiety.**
+**mindBERT** is a transformer-based model fine-tuned for **mental health text classification**. It utilizes state-of-the-art Natural Language Processing (NLP) techniques to detect various mental health conditions from textual data. The model is trained on the **50,000 sentence mental health state labelled dataset** and achieves high accuracy in detecting **stress, depression, bipolar disorder, personality disorder, and anxiety.**
 
 👉 **Try it here:** [mindBERT UI](https://huggingface.co/spaces/DrSyedFaizan/mindBERT)
 
